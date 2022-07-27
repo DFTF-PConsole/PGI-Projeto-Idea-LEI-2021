@@ -18,6 +18,7 @@ PGI - Processos de Gestão e de Inovação <br />
   * [Landing Page](https://dftf-pconsole.github.io/PGI-Projeto-Idea-LEI-2021/LandingPage_ProductPage/Codigo/public_html/landingPageBackup.html)
   * [Product Page](https://dftf-pconsole.github.io/PGI-Projeto-Idea-LEI-2021/LandingPage_ProductPage/Codigo/public_html/index.html)
   * [Newsletter Email](https://dftf-pconsole.github.io/PGI-Projeto-Idea-LEI-2021/LandingPage_ProductPage/Codigo/public_html/newsletter/newsletter.html)
+  * [Vídeo - MVP](https://dftf-pconsole.github.io/PGI-Projeto-Idea-LEI-2021/LandingPage_ProductPage/Codigo/public_html/video/demo.mp4)
 
 
 <br />
